@@ -1,0 +1,18 @@
+=======================================================
+|               SISTEM PENJUALAN ONLINE               |
+|              Welcome to my Online Shop              |
+=======================================================
+| User                                 : Aditya
+| Alamat Pengiriman                    : Yogyakarta
+| Pesanan Barang                       : 1-Nike-40-1
+| Subtotal Produk                      : Rp 150000
+| Ongkir                               : Rp 28000
+| Mendapatkan potongan gratis ongkir   : Rp 7000
+| Subtotal Pengiriman                  : Rp 21000
+| Proteksi Asuransi                    : Rp 3000
+| Total Bayar                          : Rp 174000
+| Metode Pembayaran                    : ShopeePay
+| Informasi Pengiriman                 : JNT Express
+=======================================================
+| Sisa Saldo                           : Rp 26000
+=======================================================
